@@ -1,3 +1,3 @@
 <?php
- echo 88;
+ echo "It's งาน";
  ?>
